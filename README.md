@@ -1,3 +1,5 @@
+> **Nota bene:** this fork has been created in order to get a directly invocable and relatively trustworthy URL for KeeWab as a Web App. If you trust me (and GitHub), simply navigate to [https://rozek.github.io/keeweb/dist/](https://rozek.github.io/keeweb/dist/) in order to run it.
+
 <div align="center">
 <h6>Password Manager</h6>
 <h1>KeeWeb Password Manager🔑</h1>
